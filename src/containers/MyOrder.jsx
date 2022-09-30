@@ -1,5 +1,5 @@
 import React from 'react';
-import OrderItem from '../components/OrderItem';
+import OrderItem from '@components/OrderItem';
 import '@styles/MyOrder.scss';
 
 import flechita from '@icons/flechita.svg';
